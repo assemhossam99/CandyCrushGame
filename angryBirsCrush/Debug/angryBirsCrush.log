@@ -1,0 +1,17 @@
+﻿  Source.cpp
+d:\angrybirscrush\angrybirscrush\source.cpp(46): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(47): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(82): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(83): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(113): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(114): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirscrush\angrybirscrush\source.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirscrush\angrybirscrush\source.cpp(261): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirscrush\angrybirscrush\source.cpp(268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirscrush\angrybirscrush\source.cpp(281): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\angrybirscrush\angrybirscrush\source.cpp(294): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\angrybirscrush\angrybirscrush\source.cpp(373): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirscrush\angrybirscrush\source.cpp(378): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirscrush\angrybirscrush\source.cpp(384): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirscrush\angrybirscrush\source.cpp(355): warning C4101: 'n': unreferenced local variable
+  angryBirsCrush.vcxproj -> D:\angryBirsCrush\Debug\angryBirsCrush.exe
